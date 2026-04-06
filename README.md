@@ -1,17 +1,14 @@
 # Alex / Spatulari
 
 ## About Me
-I am a student interested in backend development, systems programming, and low-level computing.
-I enjoy building software such as backend services, databases, and command-line tools.
+I am a student interested in systems programming, and low-level computing.
 
 Currently learning:
 - Java
-- Spring Boot
-- MySQL
-- Advanced C++
+- Advanced C++ (aka Modern C++)
 - Rust
 
-My goal is to become a software engineer working with backend systems, operating systems, or performance-critical applications.
+My goal is to become developer, towards low level working with operating systems, or performance-critical applications.
 
 ---
 
@@ -32,13 +29,11 @@ My goal is to become a software engineer working with backend systems, operating
 ---
 
 ## Projects
-### Bank System Backend (Java)
-#### I know, basic, I am just doing it to learn, not show off
+### Currently None
 ---
 
 ## Goals
 - Become very strong in Java and C++
-- Learn system design and backend architecture
 - Learn how operating systems work
 - Learn networking and low-level programming
 - Contribute to open-source projects
