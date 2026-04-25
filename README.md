@@ -29,7 +29,8 @@ My goal is to become developer, towards low level working with operating systems
 ---
 
 ## Projects
-### Currently None
+### kcpm
+#### kcpm (aka Kinda Cool Package Manager) is my own package manager, like pacman for example where you download binaries. It doesn't work yet, it's under development. 
 ---
 
 ## Goals
