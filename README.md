@@ -4,7 +4,6 @@
 I am a student interested in systems programming, and low-level computing.
 
 Currently learning:
-- Java
 - Advanced C++ (aka Modern C++)
 - Rust
 
@@ -30,11 +29,6 @@ My goal is to become developer, towards low level working with operating systems
 
 ## Projects
 ### kcpm
-#### kcpm (aka Kinda Cool Package Manager) is my own package manager, like pacman for example where you download binaries. It doesn't work yet, it's under development. 
+#### kcpm (aka Kinda Cool Package Manager) is my own package manager, like pacman for example where you download binaries. It does work, but I will not be open sourcing it 
+#### until it supports a transaction system, and dependencies.
 ---
-
-## Goals
-- Become very strong in Java and C++
-- Learn how operating systems work
-- Learn networking and low-level programming
-- Contribute to open-source projects
