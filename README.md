@@ -5,9 +5,10 @@ I am a student interested in systems programming, and low-level computing.
 
 Currently learning:
 - Advanced C++ 
-- Rust
 
 My goal is to become developer, towards low level working with operating systems, compilers, or performance-critical applications.
+
+www.spatulari.com
 
 ---
 
@@ -30,5 +31,7 @@ My goal is to become developer, towards low level working with operating systems
 ## Projects
 ### Rux
 I am a maintainer of [Rux](https://www.github.com/rux-lang), and I review and merge PRs, and contribute to all Rux repositories. I have made the Std docs, Rux docs, contributed to the rux compiler, Std, Windows API, and Ruxy
+### My website (www.spatulari.com)
+I made my own website with svelte. it is still under development, but online, it has blogs and projects and much more about me.
 ### kcpm (on hold)
 kcpm (aka Kinda Cool Package Manager) is my own package manager, like pacman for example where you download binaries. It does work, but I will not be open sourcing it until it supports a transaction system, and dependencies.
