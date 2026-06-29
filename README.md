@@ -29,8 +29,9 @@ https://spatulari.com/
 ---
 
 ## Projects
-### Rux
-I am a maintainer of [Rux](https://www.github.com/rux-lang), and I review and merge PRs, and contribute to all Rux repositories. I have made the Std docs, Rux docs, contributed to the rux compiler, Std, Windows API, and Ruxy
+### Azin
+I am one of the founders of [Azin](https;//www.github.com/azin-lang/azin)
+We are still early, the compiler can not compile yet, but we are working on it. I also made the [website](https://azin-lang.org) for it 
 ### My website (https://spatulari.com/)
 I made my own website with svelte. it is still under development, but online, it has blogs and projects and much more about me.
 ### kcpm (on hold)
